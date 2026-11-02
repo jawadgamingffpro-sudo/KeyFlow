@@ -1,0 +1,7 @@
+/target
+/keyflow.toml
+*.exe
+*.pdb
+.vscode/
+.idea/
+Cargo.lock
